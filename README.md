@@ -95,7 +95,7 @@ El dashboard permite identificar patrones de crecimiento tecnológico, diferenci
 
 👨‍💻 Autor
 
-Desarrollado por Gaston Monzón
+Desarrollado por Trigo Monzón C. Gastón
 Técnico Universitario en Desarrollo Web | Data Analytics & Business Intelligence
 
 📄 Licencia
